@@ -27,7 +27,7 @@ We need the following command to run the app:
 
 "streamlit run app.py"
 
-Note that the model for random forst is not present, since the model is around 4GB size, it couldnt be uploaded to the github. Hence the Random Forest classification wouldn't work. You can use the ipnyb file to generate your own model and download the model file and run it.
+Note that the model for random forst is not present, since the model is around 4GB size, it couldnt be uploaded to the github. Hence the Random Forest classification wouldn't work. You can use the ipnyb file to generate your own model and download the model file and run it. You can find the model for random forest [here](https://drive.google.com/file/d/1inofNpgwkwqSQqS_9aAeiOPberlobWJF/view?usp=sharing)
 
 # Sample Run
 
