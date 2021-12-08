@@ -30,5 +30,7 @@ We need the following command to run the app:
 Note that the model for random forst is not present, since the model is around 4GB size, it couldnt be uploaded to the github. Hence the Random Forest classification wouldn't work. You can use the ipnyb file to generate your own model and download the model file and run it.
 
 # Sample Run
-https://www.youtube.com/watch?v=pOptfqwF-ms
+
 Please find sample run of the application at the link above.
+
+https://www.youtube.com/watch?v=pOptfqwF-ms
